@@ -1,0 +1,213 @@
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\pos.exe.config
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\pos.exe
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\pos.pdb
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.csprojAssemblyReference.cache
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.Form1.resources
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.Properties.Resources.resources
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.csproj.GenerateResource.cache
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.csproj.CoreCompileInputs.cache
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.exe
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.pdb
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.SaleRegister.resources
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\Google.Protobuf.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\MySql.Data.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\System.Buffers.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\System.Memory.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\Zstandard.Net.dll
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\Google.Protobuf.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\MySql.Data.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\System.Buffers.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\System.Memory.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.csproj.CopyComplete
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.Items.resources
+C:\Users\kolit\OneDrive\Desktop\C# pos\pos\obj\Debug\pos.Itemadd.resources
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\pos.exe.config
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\pos.exe
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\pos.pdb
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\Google.Protobuf.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\MySql.Data.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\System.Buffers.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\System.Memory.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\Zstandard.Net.dll
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\Google.Protobuf.pdb
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\Google.Protobuf.xml
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\MySql.Data.xml
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\System.Buffers.xml
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\System.Memory.xml
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kolit\OneDrive\Desktop\postest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.csprojAssemblyReference.cache
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.Form1.resources
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.Itemadd.resources
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.Items.resources
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.Properties.Resources.resources
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.SaleRegister.resources
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.csproj.GenerateResource.cache
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.csproj.CoreCompileInputs.cache
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.csproj.CopyComplete
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.exe
+C:\Users\kolit\OneDrive\Desktop\postest\obj\Debug\pos.pdb
+D:\C#pos\posMS\obj\Debug\pos.Form1.resources
+D:\C#pos\posMS\obj\Debug\pos.Itemadd.resources
+D:\C#pos\posMS\obj\Debug\pos.Itemlist.resources
+D:\C#pos\posMS\obj\Debug\pos.Properties.Resources.resources
+D:\C#pos\posMS\obj\Debug\pos.csproj.GenerateResource.cache
+D:\C#pos\posMS\obj\Debug\pos.csproj.CoreCompileInputs.cache
+D:\C#pos\posMS\obj\Debug\pos.exe
+D:\C#pos\posMS\obj\Debug\pos.pdb
+D:\C#pos\posMS\bin\Debug\pos.exe.config
+D:\C#pos\posMS\bin\Debug\pos.exe
+D:\C#pos\posMS\bin\Debug\pos.pdb
+D:\C#pos\posMS\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#pos\posMS\bin\Debug\Google.Protobuf.dll
+D:\C#pos\posMS\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#pos\posMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#pos\posMS\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#pos\posMS\bin\Debug\System.Buffers.dll
+D:\C#pos\posMS\bin\Debug\System.Memory.dll
+D:\C#pos\posMS\bin\Debug\System.Numerics.Vectors.dll
+D:\C#pos\posMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#pos\posMS\bin\Debug\Google.Protobuf.pdb
+D:\C#pos\posMS\bin\Debug\Google.Protobuf.xml
+D:\C#pos\posMS\bin\Debug\K4os.Compression.LZ4.xml
+D:\C#pos\posMS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\C#pos\posMS\bin\Debug\K4os.Hash.xxHash.xml
+D:\C#pos\posMS\bin\Debug\System.Buffers.xml
+D:\C#pos\posMS\bin\Debug\System.Memory.xml
+D:\C#pos\posMS\bin\Debug\System.Numerics.Vectors.xml
+D:\C#pos\posMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#pos\posMS\obj\Debug\pos.csproj.CopyComplete
+D:\C#pos\posMS\obj\Debug\pos.itemcatgry.resources
+D:\C#pos\posMS\obj\Debug\pos.InvoiceList.resources
+D:\C#pos backup\C#pos\posMss\bin\Debug\pos.exe.config
+D:\C#pos backup\C#pos\posMss\bin\Debug\pos.exe
+D:\C#pos backup\C#pos\posMss\bin\Debug\pos.pdb
+D:\C#pos backup\C#pos\posMss\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\Google.Protobuf.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\System.Buffers.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\System.Memory.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\System.Numerics.Vectors.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#pos backup\C#pos\posMss\bin\Debug\Google.Protobuf.pdb
+D:\C#pos backup\C#pos\posMss\bin\Debug\Google.Protobuf.xml
+D:\C#pos backup\C#pos\posMss\bin\Debug\K4os.Compression.LZ4.xml
+D:\C#pos backup\C#pos\posMss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\C#pos backup\C#pos\posMss\bin\Debug\K4os.Hash.xxHash.xml
+D:\C#pos backup\C#pos\posMss\bin\Debug\System.Buffers.xml
+D:\C#pos backup\C#pos\posMss\bin\Debug\System.Memory.xml
+D:\C#pos backup\C#pos\posMss\bin\Debug\System.Numerics.Vectors.xml
+D:\C#pos backup\C#pos\posMss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.Form1.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.Invoices.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.Itemadd.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.itemcatgry.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.Itemlist.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.Login.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.Properties.Resources.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.UserAdd.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.Users.resources
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.csproj.GenerateResource.cache
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.csproj.CoreCompileInputs.cache
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.csproj.CopyComplete
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.exe
+D:\C#pos backup\C#pos\posMss\obj\Debug\pos.pdb
+D:\C#pos\posMss\bin\Debug\pos.exe.config
+D:\C#pos\posMss\bin\Debug\pos.exe
+D:\C#pos\posMss\bin\Debug\pos.pdb
+D:\C#pos\posMss\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#pos\posMss\bin\Debug\Google.Protobuf.dll
+D:\C#pos\posMss\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#pos\posMss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#pos\posMss\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#pos\posMss\bin\Debug\System.Buffers.dll
+D:\C#pos\posMss\bin\Debug\System.Memory.dll
+D:\C#pos\posMss\bin\Debug\System.Numerics.Vectors.dll
+D:\C#pos\posMss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#pos\posMss\bin\Debug\Google.Protobuf.pdb
+D:\C#pos\posMss\bin\Debug\Google.Protobuf.xml
+D:\C#pos\posMss\bin\Debug\K4os.Compression.LZ4.xml
+D:\C#pos\posMss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\C#pos\posMss\bin\Debug\K4os.Hash.xxHash.xml
+D:\C#pos\posMss\bin\Debug\System.Buffers.xml
+D:\C#pos\posMss\bin\Debug\System.Memory.xml
+D:\C#pos\posMss\bin\Debug\System.Numerics.Vectors.xml
+D:\C#pos\posMss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#pos\posMss\obj\Debug\pos.csprojAssemblyReference.cache
+D:\C#pos\posMss\obj\Debug\pos.Form1.resources
+D:\C#pos\posMss\obj\Debug\pos.Invoices.resources
+D:\C#pos\posMss\obj\Debug\pos.Itemadd.resources
+D:\C#pos\posMss\obj\Debug\pos.itemcatgry.resources
+D:\C#pos\posMss\obj\Debug\pos.Itemlist.resources
+D:\C#pos\posMss\obj\Debug\pos.Login.resources
+D:\C#pos\posMss\obj\Debug\pos.Properties.Resources.resources
+D:\C#pos\posMss\obj\Debug\pos.Report.resources
+D:\C#pos\posMss\obj\Debug\pos.UserAdd.resources
+D:\C#pos\posMss\obj\Debug\pos.Users.resources
+D:\C#pos\posMss\obj\Debug\pos.csproj.GenerateResource.cache
+D:\C#pos\posMss\obj\Debug\pos.csproj.CoreCompileInputs.cache
+D:\C#pos\posMss\obj\Debug\pos.csproj.CopyComplete
+D:\C#pos\posMss\obj\Debug\pos.exe
+D:\C#pos\posMss\obj\Debug\pos.pdb
+D:\C#pos\Restaurant POS system project\bin\Debug\pos.exe.config
+D:\C#pos\Restaurant POS system project\bin\Debug\pos.exe
+D:\C#pos\Restaurant POS system project\bin\Debug\pos.pdb
+D:\C#pos\Restaurant POS system project\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\Google.Protobuf.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\System.Buffers.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\System.Memory.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\System.Numerics.Vectors.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#pos\Restaurant POS system project\bin\Debug\Google.Protobuf.pdb
+D:\C#pos\Restaurant POS system project\bin\Debug\Google.Protobuf.xml
+D:\C#pos\Restaurant POS system project\bin\Debug\K4os.Compression.LZ4.xml
+D:\C#pos\Restaurant POS system project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\C#pos\Restaurant POS system project\bin\Debug\K4os.Hash.xxHash.xml
+D:\C#pos\Restaurant POS system project\bin\Debug\System.Buffers.xml
+D:\C#pos\Restaurant POS system project\bin\Debug\System.Memory.xml
+D:\C#pos\Restaurant POS system project\bin\Debug\System.Numerics.Vectors.xml
+D:\C#pos\Restaurant POS system project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.Form1.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.Invoices.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.Itemadd.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.itemcatgry.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.Itemlist.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.Login.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.Properties.Resources.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.Report.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.UserAdd.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.Users.resources
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.csproj.GenerateResource.cache
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.csproj.CoreCompileInputs.cache
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.csproj.CopyComplete
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.exe
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.pdb
+D:\C#pos\Restaurant POS system project\obj\Debug\pos.csprojAssemblyReference.cache
